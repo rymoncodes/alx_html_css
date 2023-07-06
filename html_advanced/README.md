@@ -7,5 +7,7 @@ Clone the repository. Navigate to the project directory. Install the dependencie
 ### Contributing
 *Contributions are welcome! Follow these steps to contribute:*
 Fork the repository. Create a new branch. Make your changes and commit them. Push to the branch. Submit a pull request. License This project is licensed under the MIT License.
-**Contact:**For any questions or suggestions, please email us at get@scholed.com.
+
+**Contact**: For any questions or suggestions, please email us at get@scholed.com.
+
 **Acknowledgements** Special thanks to Cole Baidoo for their valuable contributions.
